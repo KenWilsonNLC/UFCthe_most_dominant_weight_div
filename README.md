@@ -1,4 +1,4 @@
-# The Ultimate weight class - finding the besr weight class
+# The Ultimate weight class - finding the best weight class
 My goal is to find the most exciting weight division in the UFC overall. The methodology I’ve put together provides an unbiased quantitative look into the UFC’s fight metrics, by assigning points to the normalized rank for each division in each specific category.
 
 The UFC has been a around for quite sometime now deliverying some of the best sports entertainment has to offer since it's establishment (November 12, 1993).
