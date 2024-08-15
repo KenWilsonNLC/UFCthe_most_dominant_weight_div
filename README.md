@@ -31,15 +31,15 @@ My minimum viable product:
 •	Red Corner/Blue Corner – are used to designate the two competing fighters; the red corner designation is reserved for the higher ranked of the two competitors.
 
 #Data Sources
-1. Ultimate UFC Dataset (kaggle.com) 
-2. UFC Fighters' Statistics Dataset (kaggle.com)
-3. List of UFC bonus award recipients – Wikipedia
-4. Stats | UFC (ufcstats.com)
- 
-5. UFC Division Champions & Featured Fighters | UFC.com
-6. UFC 1 – Wikipedia
-7. Record Book | UFC
-8. UFC Fight Outcomes by Weight Class – Fight Matrix![image](https://github.com/user-attachments/assets/ed9a2a5b-f122-4bbf-90a0-9592d1efedd0)
+-Ultimate UFC Dataset (kaggle.com) 
+-UFC Fighters' Statistics Dataset (kaggle.com)
+-List of UFC bonus award recipients – Wikipedia
+-Stats | UFC (ufcstats.com)
+-UFC Division Champions & Featured Fighters | UFC.com
+-UFC 1 – Wikipedia
+-Record Book | UFC
+-UFC Fight Outcomes by Weight Class – Fight Matrix![image](https://github.com/user-attachments/assets/ed9a2a5b-f122-4bbf-90a0-9592d1efedd0)
+-UFC Fight Outcomes by Weight Class – Fight Matrix
 
 Power BI links
 [   https://app.powerbi.com/groups/me/reports/e7b17537-9066-4f63-878e-1ef68335cc9d/7cdbf0dc097afcd7b233?bookmarkGuid=6649b4dd-2fd3-4d6a-9e7e-d52aabc4f176&bookmarkUsage=1&ctid=101da587-1843-4f52-8b8a-17b069c66d33&portalSessionId=331ec62c-9340-480a-8f17-b75b4e36fb7d&fromEntryPoint=export](https://app.powerbi.com/groups/me/reports/0efe806f-b1c8-4aa0-99f9-ce7e96e83c1c/f1fb9287cd9b38fbf7f1?bookmarkGuid=2ec7ef10-8eea-4097-985b-2419106a93b4&bookmarkUsage=1&ctid=101da587-1843-4f52-8b8a-17b069c66d33&portalSessionId=331ec62c-9340-480a-8f17-b75b4e36fb7d&fromEntryPoint=export)
